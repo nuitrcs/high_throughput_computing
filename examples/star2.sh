@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --account=e32680
-#SBATCH --partition=short
+#SBATCH --account=b1042
+#SBATCH --partition=genomics
 #SBATCH --time=01:00:00
 #SBATCH --nodes=1
 #SBATCH --ntasks=8
